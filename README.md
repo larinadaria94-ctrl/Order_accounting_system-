@@ -78,4 +78,11 @@ python -m order_manager.main
 
 ## Интерфейс
 ![image alt](https://github.com/larinadaria94-ctrl/Order_accounting_system-/blob/6d63d9cc5ec1660b722a80547eceb23af90e5dca/images/image.png)
-
+![image alt](https://github.com/larinadaria94-ctrl/Order_accounting_system-/blob/1c2d55d0a4ba652cf1b7d16d0c78b8202aa709b8/images/image%20(1).png)
+![image alt](https://github.com/larinadaria94-ctrl/Order_accounting_system-/blob/1c2d55d0a4ba652cf1b7d16d0c78b8202aa709b8/images/image%20(2).png)
+![image alt](https://github.com/larinadaria94-ctrl/Order_accounting_system-/blob/1c2d55d0a4ba652cf1b7d16d0c78b8202aa709b8/images/image%20(3).png)
+![image alt](https://github.com/larinadaria94-ctrl/Order_accounting_system-/blob/1c2d55d0a4ba652cf1b7d16d0c78b8202aa709b8/images/image%20(4).png)
+![image alt](https://github.com/larinadaria94-ctrl/Order_accounting_system-/blob/1c2d55d0a4ba652cf1b7d16d0c78b8202aa709b8/images/image%20(5).png)
+![image alt](https://github.com/larinadaria94-ctrl/Order_accounting_system-/blob/1c2d55d0a4ba652cf1b7d16d0c78b8202aa709b8/images/image%20(6).png)
+![image alt](https://github.com/larinadaria94-ctrl/Order_accounting_system-/blob/1c2d55d0a4ba652cf1b7d16d0c78b8202aa709b8/images/image%20(7).png)
+![image alt](https://github.com/larinadaria94-ctrl/Order_accounting_system-/blob/1c2d55d0a4ba652cf1b7d16d0c78b8202aa709b8/images/image%20(8).png)
