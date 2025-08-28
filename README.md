@@ -77,5 +77,5 @@ python -m order_manager.main --seed
 python -m order_manager.main
 
 ## Интерфейс
-https://github.com/larinadaria94-ctrl/Order_accounting_system-/blob/main/images/image.png?raw=true
+https://github.com/larinadaria94-ctrl/Order_accounting_system-/blob/6d63d9cc5ec1660b722a80547eceb23af90e5dca/images/image.png
 
