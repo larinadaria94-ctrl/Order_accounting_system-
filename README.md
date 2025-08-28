@@ -28,22 +28,6 @@
 
 ---
 
-## Архитектура и структура
-
-.  
-├─ app.py # лаунчер (удобно для PyInstaller)  
-└─ order_manager/  
-├─ init.py  
-├─ main.py # точка входа: CLI (--seed / запуск GUI)  
-├─ gui.py # окно Tkinter и логика вкладок  
-├─ db.py # слой БД: схема, CRUD, экспорт/импорт  
-├─ models.py # доменные модели + валидация  
-├─ analysis.py # аналитика и визуализации  
-├─ utils.py # merge_sort, now_date_str, валидаторы  
-└─ tests/  
-├─ test_models.py  
-└─ test_analysis.py  
-
 **Поток управления**:
 
 - `main.py` → парсит флаги → `db.init_schema()` → либо `db.seed_demo()`, либо `run_gui(db_path)`
@@ -69,6 +53,9 @@
 ---
 
 ## Запуск
+
+# установка необходимых модулей(при необходимости)
+pip install -r order_manager\requirements.txt
 
 # создать/обновить схему и залить демо-данные
 python -m order_manager.main --seed
